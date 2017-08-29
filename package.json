@@ -1,0 +1,29 @@
+{
+  "name": "keeplog",
+  "version": "0.0.1",
+  "description": "A nano real-time logging system build on top of socket.io, express and node.js developed for the keepup project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mazyvan/keeplog.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "socket.io",
+    "realtime",
+    "websocket",
+    "keepup",
+    "log",
+    "logging"
+  ],
+  "author": "Iván Sánchez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mazyvan/keeplog/issues"
+  },
+  "homepage": "https://github.com/mazyvan/keeplog#readme"
+}
